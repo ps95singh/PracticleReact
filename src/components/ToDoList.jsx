@@ -1,3 +1,4 @@
+/* eslint-disable react/destructuring-assignment */
 /* eslint-disable react/no-access-state-in-setstate */
 /* esl'nt-disable react/destruc'u r ing-a'signment */
 import React, { Component } from 'react';
